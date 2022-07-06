@@ -13,3 +13,7 @@
 * Previously supported [Northrop Grumman MQ-4C Triton](https://www.northropgrumman.com/what-we-do/air/triton/) developing Mission Planning software.
 * Graduated with a Computer Engineering degree from University of California, Irvine
 * Working on improving my golf handicap :golf:🏌️‍♂️
+
+
+
+[Resume](https://jayjdave.github.io/jay-dave-resume/)
