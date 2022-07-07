@@ -4,6 +4,8 @@
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayjdave)
+[![Resume](https://img.shields.io/badge/Resume-2022-blue.svg)](https://jayjdave.github.io/jay-dave-resume/)
+
 
 ---
 ## About me
@@ -13,7 +15,3 @@
 * Previously supported [Northrop Grumman MQ-4C Triton](https://www.northropgrumman.com/what-we-do/air/triton/) developing Mission Planning software.
 * Graduated with a Computer Engineering degree from University of California, Irvine
 * Working on improving my golf handicap :golf:🏌️‍♂️
-
-
-
-[Resume](https://jayjdave.github.io/jay-dave-resume/)
