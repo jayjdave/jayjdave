@@ -4,8 +4,7 @@
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayjdave)
-[![Resume](https://img.shields.io/badge/Resume-2022-blue.svg)](https://jayjdave.github.io/jay-dave-resume/)
-
+[![Resume](https://shields.io/badge/-Resume-lightgrey?style=for-the-badge)](https://jayjdave.github.io/jay-dave-resume/)
 
 ---
 ## About me
